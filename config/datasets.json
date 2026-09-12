@@ -10,5 +10,9 @@
   "viral-50-usa": {
     "file": "data/viral-50-usa.csv",
     "description": "A sample Viral 50 USA music chart with track positions and artists"
+  },
+  "Global-Life-Expentancy": {
+    "file": "data/Global Life Expentancy.csv",
+    "description": "Global life expentancy for different countries"
   }
 }
