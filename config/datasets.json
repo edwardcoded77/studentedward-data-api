@@ -13,6 +13,6 @@
   },
   "Global-Life-Expectancy": {
     "file": "data/Global Life Expectancy.csv",
-    "description": "Global life expentancy for different countries"
+    "description": "Data on average life expectancy of various countries worldwide"
   }
 }
