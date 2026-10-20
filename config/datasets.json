@@ -14,5 +14,9 @@
   "Global-Life-Expectancy": {
     "file": "data/Global Life Expectancy.csv",
     "description": "Data on average life expectancy of various countries worldwide"
-  }
+  },
+   "fast-food-nutrition": {
+    "file": "data/fast-food-nutrition.csv",
+    "description": "Nutritional information data on fast food items from the major American fast food chains."
+   }
 }
